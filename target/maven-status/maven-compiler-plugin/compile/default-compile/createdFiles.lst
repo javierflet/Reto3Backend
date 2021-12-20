@@ -1,0 +1,16 @@
+com/cuatroa/retotres/repository/crud/ProductCrudRepository.class
+com/cuatroa/retotres/repository/crud/OrderCrudRepository.class
+com/cuatroa/retotres/service/ProductService.class
+com/cuatroa/retotres/controller/UserController.class
+com/cuatroa/retotres/model/Product.class
+com/cuatroa/retotres/repository/OrderRepository.class
+com/cuatroa/retotres/repository/crud/UserCrudRepository.class
+com/cuatroa/retotres/model/User.class
+com/cuatroa/retotres/controller/ProductController.class
+com/cuatroa/retotres/service/OrderService.class
+com/cuatroa/retotres/model/Order.class
+com/cuatroa/retotres/Reto3Ciclo4Application.class
+com/cuatroa/retotres/service/UserService.class
+com/cuatroa/retotres/repository/ProductRepository.class
+com/cuatroa/retotres/repository/UserRepository.class
+com/cuatroa/retotres/controller/OrderController.class

@@ -1,0 +1,16 @@
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/controller/UserController.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/repository/crud/OrderCrudRepository.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/controller/ProductController.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/model/Product.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/service/ProductService.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/repository/OrderRepository.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/Reto3Ciclo4Application.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/model/User.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/repository/crud/UserCrudRepository.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/model/Order.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/repository/UserRepository.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/service/UserService.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/repository/ProductRepository.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/service/OrderService.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/repository/crud/ProductCrudRepository.java
+/Users/user/Desktop/Reto3Backend-main/src/main/java/com/cuatroa/retotres/controller/OrderController.java
